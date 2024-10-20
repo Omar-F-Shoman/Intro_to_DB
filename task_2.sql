@@ -1,4 +1,3 @@
-
 USE alx_book_store; 
 
 CREATE TABLE Authors (
